@@ -1,0 +1,20 @@
+{
+    "name": "jackleejl-coffeescript-validacoesbr",
+    "version": "1.0.0",
+    "homepage": "https://github.com/jackleejl/coffeescript-validacoesbr",
+    "authors": [
+        "Jack Lee <me.jacklee.jl@googlemail.com>"
+    ],
+    "description": "Implementa classes em CoffeeScript para validações de CPF, CEP, números de telefone residenciais/comerciais/celulares etc",
+    "keywords": [
+        "validacoes"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
